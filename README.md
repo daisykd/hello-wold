@@ -1,3 +1,3 @@
-# hello-wold
+# hello-world
 test
 write about myself ^-^
